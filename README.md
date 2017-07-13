@@ -17,7 +17,7 @@ install.packages('RPresto')
 You can install the github development version via
 
 ```R
-devtools::install_github('prestodb/RPresto')
+devtools::install_github('avantcredit/RPresto')
 ```
 
 ## Examples
